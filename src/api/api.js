@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://task-management-system-589e.onrender.com";
+const BASE_URL = "https://task-management-system-589e.onrender.com/api/tasks";
 
 // Get all tasks
 export const getTasks = () => {
